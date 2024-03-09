@@ -14,3 +14,5 @@ Dabei erstellung der Übergänge der Oberflächen
 Erstellung der SQL Datenbank und Tabelle
 
 Erstelung der Verbindung zur SQL Datenbank und bearbeitung/login.
+
+Erstellung der Warenansicht, Warenbestellung und Warenanahme Oberfläche mit suabern übergänge
