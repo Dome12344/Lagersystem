@@ -16,3 +16,5 @@ Erstellung der SQL Datenbank und Tabelle
 Erstelung der Verbindung zur SQL Datenbank und bearbeitung/login.
 
 Erstellung der Warenansicht, Warenbestellung und Warenanahme Oberfläche mit suabern übergänge
+
+Erstellung der Liferranten, Material, Lagerort und Bestellliste Datenbank und erstellung der Funktion passwort versessen.
