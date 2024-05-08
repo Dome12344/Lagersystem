@@ -1,0 +1,46 @@
+1 Testversuch Profil erstellen:
+Erwartet voraus sicht Profil wird in der Sql Datenbank erstellt und gespeichert
+Ergebnis:
+Beim Anmelden gabe es im Code ein Problem wenn in der Sql Commando Inset into nicht alle Spalten im Code genannt werden,
+übermittelt er die Daten an die Sql Datenbank nicht.
+Nach dieser Überarbeitung wurdes es wider am selben Tag Getest und mit erfolg.
+Tag des Test 08.09.2024 um 10:11 Uhr.
+
+
+2 Testversuch Profil Passwort:
+Erwartet voraus sicht Profilspasswort wird in der Sql Datenbank gerändert und gespeichert
+Ergebnis:
+Bei Passwort gabe es im Code ein Problem wenn in der Sql Commando Update.
+Bei diesen Befehl muss den Spalten Name einmal ohne @ und mit @ angeben damit es ausgeführt wird.
+Nach dieser Überarbeitung wurdes es wider am selben Tag Getest und mit erfolg.
+Tag des Test 08.09.2024 um 10:25 Uhr.
+
+
+3 Testversuch Profil anmelden:
+Erwartet voraus das man sich mit dem Profil anmeledte
+Ergebnis:
+Gab kein Problem mit der Verbindung mit Sql Datenbank und man konnte sich anmelden.
+
+Tag des Test 08.09.2024 um 10:30 Uhr.
+
+
+4 Testversuch Material anlegen:
+Erwartung dass, das Material angelegt wird in der Datenbank Lager, Material und Bestellungen
+Ergebnis:
+Beim Anlegen des Material gab es ein Problem wenn man beim ersten Sql Commando die Zeilen lerrt werden die anderen Datenbanken nicht befüllt und musste über arbeitet
+werden.
+Nach dieser Überarbeitung wurdes es wider am selben Tag Getest und mit erfolg.
+Tag des Test 08.09.2024 um 10:40 Uhr.
+
+5 Testversuch Warenanhme:
+Erwartung dass, die Waren Inhalt geändet werden kann
+Ergebnis:
+Beim Test gab es keine Fehler und es wurde mit Erfolg geändert in der Datenbank
+Tag des Test 08.09.2024 um 10:50 Uhr.
+
+6 Testversuch Warenansicht:
+Erwartung Warenansicht wird angezeigt und kann geändert werden
+Ergebnis:
+Beim Test gab es keine Fehler und es wurde mit Erfolg geändert in der Datenbank und es wurde Angezeigt.
+Tag des Test 08.09.2024 um 11:00 Uhr.
+
