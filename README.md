@@ -18,3 +18,5 @@ Erstelung der Verbindung zur SQL Datenbank und bearbeitung/login.
 Erstellung der Warenansicht, Warenbestellung und Warenanahme Oberfläche mit suabern übergänge
 
 Erstellung der Liferranten, Material, Lagerort und Bestellliste Datenbank und erstellung der Funktion passwort versessen.
+
+Die beiden Aktuelle Hausarbeitsprojekt sind "Lagerverwaltungssytem mit Schul Datenbank" und "Lagersystem ohne Visual Studio"
