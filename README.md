@@ -20,3 +20,5 @@ Erstellung der Warenansicht, Warenbestellung und Warenanahme Oberfläche mit sua
 Erstellung der Liferranten, Material, Lagerort und Bestellliste Datenbank und erstellung der Funktion passwort versessen.
 
 Die beiden Aktuelle Hausarbeitsprojekt sind "Lagerverwaltungssytem mit Schul Datenbank" und "Lagersystem ohne Visual Studio"
+
+Hinzu fügen der Hausarbeit Dokument und die Testversuche
